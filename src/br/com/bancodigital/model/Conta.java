@@ -1,4 +1,6 @@
-package br.com.bancodigital;
+package br.com.bancodigital.model;
+
+import br.com.bancodigital.interfaces.IConta;
 
 public abstract class Conta implements IConta {
 

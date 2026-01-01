@@ -1,4 +1,4 @@
-package br.com.bancodigital;
+package br.com.bancodigital.model;
 
 import java.util.ArrayList;
 import java.util.List;

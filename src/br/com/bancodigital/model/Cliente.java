@@ -1,4 +1,4 @@
-package br.com.bancodigital;
+package br.com.bancodigital.model;
 
 public class Cliente {
 

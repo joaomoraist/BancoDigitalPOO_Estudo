@@ -1,4 +1,6 @@
-package br.com.bancodigital;
+package br.com.bancodigital.application;
+
+import br.com.bancodigital.model.*;
 
 import java.util.Scanner;
 
