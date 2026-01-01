@@ -17,6 +17,9 @@ public class Banco {
         contas.add(conta);
     }
     public void listarContas (){
+        System.out.println("Banco: " + nome);
+        System.out.println("============================");
+
         for (Conta conta : contas){
             conta.imprimirExtrato();
             System.out.println();
